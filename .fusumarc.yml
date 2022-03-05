@@ -1,8 +1,8 @@
 meta:
-  url: https://gabelluardo.github.io/
-  title:
+  url: https://gabelluardo.github.io/plenaria-mar2022
+  title: Plenaria marzo 2022
   description:
-  siteName:
+  siteName: plenaria-mar2022
 slide:
   loop: false
   targetBlank: true

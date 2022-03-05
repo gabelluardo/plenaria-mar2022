@@ -1,4 +1,4 @@
-@import '@fusuma/client/assets/style/themes/webpack.css';
+@import '@fusuma/client/assets/style/themes/node.css';
 @import "@fortawesome/fontawesome-free/css/all.css";
 
 .img,
@@ -22,4 +22,19 @@
 h1,
 h2 {
     margin-bottom: 30px;
+}
+
+.end {
+    background-image: url('https://media.giphy.com/media/ass2cYPZuBQ1q/giphy.gif');
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.green {
+    color: darkgreen;
+}
+
+.red {
+    color: darkred;
 }
