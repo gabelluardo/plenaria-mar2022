@@ -15,9 +15,11 @@ Aggiornamenti:
 
 ## Come sta andando?
 
-Funziona decentemente
+<!-- block-start: img -->
 
-<!-- TODO: Video -->
+![](../assets/dragons.png)
+
+<!-- block-end -->
 
 ---
 
